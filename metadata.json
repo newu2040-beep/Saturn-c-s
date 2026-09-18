@@ -1,0 +1,6 @@
+{
+  "name": "SATURN C",
+  "description": "Premium all-in-one AI creative studio to generate, edit, animate, upscale and produce image, video, and audio projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
